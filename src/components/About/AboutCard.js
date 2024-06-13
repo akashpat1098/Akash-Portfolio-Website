@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Akash Patel </span>
             from <span className="purple"> Maharashtra, India.</span>
-            <br />I am currently in 8th sem pursuing a Bachelor’s degree in<span className="purple"> IT Engineering.</span>
+            <br />I have recently completed my Bachelor’s degree in<span className="purple"> IT Engineering.</span>
             <br />
             I am an aspiring software engineer who is passionate about learning
             and applying my skills.

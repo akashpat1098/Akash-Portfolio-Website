@@ -21,7 +21,7 @@ function Home2() {
               <br />
               My skillset includes
               <i>
-                <b className="purple"> Python, Java and Javascript. </b>
+                <b className="purple"> Python, Java, Sql and Javascript. </b>
               </i>
               <br />
               <br />
